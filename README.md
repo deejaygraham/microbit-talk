@@ -32,3 +32,11 @@
 
 * Online - emulator
 
+
+### Setup
+
+* print notes
+* speaker charged
+* batteries
+* clicker
+* slides
