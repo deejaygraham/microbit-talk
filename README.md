@@ -5,12 +5,18 @@
 
 ## Raspberry Pi
 
+## But first 
+
+who likes card tricks
+card tricks are great.
+
+No? Agree, analogue ones can be 
 ## micro:bit
 
 * Easy to use
 * Less separation between boys and girls
 * STEAM 
-* use across curriculum
+* Use across curriculum
 
 8 year old crying boy
 16-17 year olds
@@ -25,15 +31,35 @@
 * compass
 * temperature
 
+### physical computing ?
+
+* tiny embedded micro computer
+* tangible 
+* screen
+* buttons
+* sensors
+* hold in your hand
+* embed in an object
+
+
 ### What 
 ## Programming
 
 ### Editors
 
 * Online - emulator
+* Mu 
 
+### Resources
 
-### Setup
+http://mb4ps.co.uk/ Microbit for Primary Schools
+https://www.hackster.io/microbit/projects
+http://microbit.org/ideas/
+
+!!
+https://github.com/martinohanlon/microbit-micropython/tree/master/examples/mcfly
+
+### To Do
 
 * print notes
 * speaker charged
